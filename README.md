@@ -1,0 +1,2 @@
+# Wakanda-Translator
+ Wakanda is a fictional country located in Sub-Saharan Africa created by Marvel Comics. It is home to the superhero Black Panther. This Wankandan translator translates the alphabet to Wakandan looking alphabets. Images and other items may be copyrighted and property of Marvel Comics.  This translator works based on custom fonts served from the internet (@font-face). When you copy and paste unless you have the font installed locally on your system, it won't look the same. You can use the image for sharing which will look the same regardless.
