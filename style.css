@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+
+}
+
+
+
+aside {
+    width: 40%;
+    
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: normal;
+    letter-spacing: 1px;
+    font-size: large;
+    margin-right:10rem ;
+}
+
+.input{
+    width: 40%;
+    height: 20vh;
+}
+.btn-div{
+    width: 40%;
+    text-align: center;
+    margin-top: 1rem;
+}
